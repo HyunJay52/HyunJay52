@@ -4,8 +4,9 @@
 <br/>
 <br/>
 <br/>
-<div style="font-size:12px; margin:20px;" align="center">
-  노력하는 개발자, 김현정입니다.
+<div style="font-size:20px; margin:20px;" align="center">
+대기만성을 꿈꾸는 개발자, 김현정입니다. 🤓
+  
 </div>
 <br/>
 <br/>
