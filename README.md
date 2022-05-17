@@ -23,17 +23,7 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 <hr/>
 <h5>📌 pinned repository</h5>
-<a href="https://github.com/HyunJay52/team4_1ocaler_project" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HyunJay52&repo=team4_1ocaler_project&theme=default_repocard" />
-</a>
-<a href="https://github.com/HyunJay52/Project_4_Card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HyunJay52&repo=Project_4_Card&theme=default_repocard" />
-</a>
-<a href="https://github.com/HyunJay52/Project_4_Card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HyunJay52&repo=Project_4_Card&theme=default_repocard" />
-</a>
+
