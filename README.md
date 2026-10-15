@@ -1,4 +1,4 @@
-# Hi, I'm Jay 👋
+# Hi, I'm HyunJung 👋
 
 ### Full-stack Software Developer
 **Backend Development · Mobile Applications · Cloud Infrastructure**
