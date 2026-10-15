@@ -33,7 +33,7 @@ cloud infrastructure, and AI-powered applications.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Frontend & Mobile
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -45,10 +45,9 @@ cloud infrastructure, and AI-powered applications.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
-### Tools & DevOps
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -56,13 +55,6 @@ cloud infrastructure, and AI-powered applications.
 
 - Backend architecture and API design
 - AWS cloud services and deployment automation
-- Computer vision and AI-powered applications
 - Workflow automation and developer productivity
-
----
-
-## Connect
-
-[GitHub](https://github.com/HyunJay52)
 
 <!-- Add LinkedIn, portfolio website, and contact email here. -->
